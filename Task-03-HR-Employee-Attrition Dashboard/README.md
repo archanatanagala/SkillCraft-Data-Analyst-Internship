@@ -1,14 +1,13 @@
 # HR Employee Attrition Dashboard 
 
-## 📊 Project Overview
+##  Project Overview
 This project is built using Power BI to analyze employee attrition and understand the key reasons why employees leave the organization.
 
 The dashboard provides interactive visuals using slicers, KPI cards, and charts.
 
 ##  Objective
 To answer the question:
-**"Why are employees leaving the company?"**
-
+Why are employees leaving the company?
 ## Dataset Used
 - Employee ID (EmpID)
 - Age
